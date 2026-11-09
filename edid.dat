@@ -1,0 +1,38 @@
+EDID for tfp401
+Edid version 1.4
+ID: ADA, PID: 0004, SerialNr: 1, Date: week 46, 2020
+Digital, 8 bit, DVI
+Dimensions: 12cm x 9cm
+RGB 4:4:4, preferred timing Mode
+Established Timings: 800x600 60Hz VESA
+Block 1(pref timing block)
+Pixel Clock: 40Mhz
+H active pixels 800
+H blank			256 = sum poches + sync
+H front porch	40
+H sync width	128
+H image size	121 (mm)
+H border		88 = back porch
+V active pixels	600
+V blank			28
+V sync width	1
+V image size	90 (mm)
+V border		23
+
+EDID BYTES:
+00 FF FF FF FF FF FF 00 04 81 04 00 01 00 00 00
+2E 1E 01 04 A1 0C 09 00 1A 00 00 00 00 00 00 00
+00 00 00 01 00 00 01 00 01 00 01 00 01 00 01 00
+01 00 01 00 01 00 A0 0F 20 00 31 58 1C 20 28 80
+14 00 79 5A 00 58 17 18 00 00 00 10 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 10 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 10
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 78
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
